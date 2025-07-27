@@ -1,3 +1,3 @@
-# Tetris-ver2
+# Tetris-ver.2
 
 https://tamago0926.github.io/Tetris-var2/
