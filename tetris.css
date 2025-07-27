@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    background-color: black;
+}
+
+.canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#tetrisCanvas {
+    border: 2px solid gray;
+    background-color: black;
+}
+
+#nextCanvas {
+    border: 2px solid gray;
+    background-color: black;
+    position: relative;
+    right: 6px;
+    bottom:250px;
+}
+
+#holdCanvas {
+    border: 2px solid gray;
+    background-color: black;
+    position: relative;
+    left: 6px;
+    bottom:670px;
+}
